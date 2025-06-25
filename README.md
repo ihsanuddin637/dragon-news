@@ -1,6 +1,6 @@
-# Hobby Connect
+# Dragon News
 
-👉 **Live Demo**: [https://uddog.netlify.app/](https://uddog.netlify.app/)
+👉 **Live Demo**: [https://dragon-news-hero.netlify.app/category/0](https://dragon-news-hero.netlify.app/category/0)
 
 ---
 
@@ -27,7 +27,7 @@
 - ### 🌐 **Live URL**
 
   Access the live project here:  
-  [https://uddog.netlify.app/](https://uddog.netlify.app/)
+  [https://dragon-news-hero.netlify.app/category/0](https://dragon-news-hero.netlify.app/category/0)
 
 - ### 🧱 **Scalability & Maintainability**
   Designed with reusable components, modular structure, and clean code practices — making it easy to scale features and maintain the codebase over time.
